@@ -1,1 +1,1 @@
-Refer to documentation in the downloaded package or go to http://bit.ly/nanosoft-documentation
+Refer to documentation in the downloaded package or go to 
